@@ -11,3 +11,5 @@ const render = () => {
         router.switch('#/job')
     })
 }
+
+export default {render}
